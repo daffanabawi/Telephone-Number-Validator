@@ -1,5 +1,5 @@
-this mini project use regular expresion for sorting the number.
-number is valid like this: 
+# this mini project use regular expresion for sorting the number.
+# number is valid like this: 
 3792389475
 135-555-8693
 105 245 5683
